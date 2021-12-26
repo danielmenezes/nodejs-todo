@@ -1,4 +1,4 @@
-# Nodejs - TODO 📃
+# Nodejs - ToDo 📃
 
 ## Projetinho para treinar conceitos fundamentais de NodeJs.
 
